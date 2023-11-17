@@ -52,9 +52,5 @@ The contract uses the `Ownable` contract from OpenZeppelin, ensuring that certai
 
 Deploy the contract to an Ethereum-compatible blockchain using a tool like Remix or Truffle.
 
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests.
-
 ## Author
 Donato, Zeno 202011124@fit.edu.ph
